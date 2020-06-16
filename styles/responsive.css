@@ -300,7 +300,7 @@
 	}
 	.home
 	{
-		min-height: 100vh;
+		height: calc(100vh - 90vh);
 	}
 	.home_slider_container
 	{
