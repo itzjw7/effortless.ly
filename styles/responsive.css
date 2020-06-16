@@ -300,7 +300,7 @@
 	}
 	.home
 	{
-		height: 5vh;
+		min-height: 100vh;
 	}
 	.home_slider_container
 	{
